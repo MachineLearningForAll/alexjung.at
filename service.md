@@ -7,7 +7,7 @@ permalink: /service/
 Academic service reflects the trust universities and professional communities place in
 researchers to evaluate work fairly, maintain standards, and support the next generation.
 My roles include leading a professional society chapter, examining doctoral theses at other
-universities, and committee work at Aalto. My independent volunteer work against academic
+universities, evaluating funding applications, and committee work at Aalto. My independent volunteer work against academic
 bullying has its own [Activism]({{ site.baseurl }}/activism) page.
 
 ### Professional societies
@@ -53,6 +53,16 @@ Public defences and doctoral examinations at other universities:
 - **2024-05-24** · Faculty opponent (*fakultetsopponent*) for N. Fouladgar, *"Affect Detection with Explainable AI for Time Series,"* Department of Computing Science, Umeå University (SE).
 - **2019-09-16** · Member of the grading committee for P. del Aguila Pla, *"Inverse Problems in Signal Processing: Functional Optimization, Parameter Estimation, and Machine Learning,"* KTH Royal Institute of Technology, Stockholm (SE).
 - **2018-01-26** · Examiner (*rapporteur*) on the thesis jury for L. J. Martin, *"Robust and Efficient Data Clustering with Signal Processing on Graphs,"* EPFL, Lausanne (CH).
+
+### Funding application evaluation
+
+External evaluator of applications for research funding and funded doctoral positions:
+
+- **2026** · External evaluator for the **Doctoral Programme in Technology (DPT), University of Turku** (FI), in the 2026 call for funded doctoral researcher positions.
+  I assessed the applications assigned to the computing and information and communication technology panel, scoring each on the feasibility of the planned implementation, the quality of the research plan, and the applicant's background, and wrote a short justification for every score for the programme committee.
+- **2020, 2023** · Reviewer for the **Spark funding scheme of the Swiss National Science Foundation (SNSF)** (CH), and member of the Spark Evaluation Committee.
+  Spark funds novel and unconventional ideas that can be tested quickly and with limited resources, and is assessed double-blind: reviewers see neither the identity nor the affiliation and track record of the applicant, so the judgement rests on the originality, scientific quality and potential impact of the proposed project alone.
+- **2022** · Reviewer for the **Personal Research Grants** programme of the **Israel Science Foundation (ISF)** (IL).
 
 ### University committees
 
